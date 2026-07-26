@@ -1,0 +1,30 @@
+upsc-zone/
+│
+├── index.html          (Home)
+├── notes.html
+├── mock-tests.html
+├── pyqs.html
+├── prelims.html
+├── mains.html
+├── current-affairs.html
+├── about.html
+├── contact.html
+│
+├── css/
+│      style.css
+│
+├── js/
+│      script.js
+│
+├── images/
+│      logo.png
+│      hero.jpg
+│
+└── notes/
+       history.html
+       geography.html
+       polity.html
+       economy.html
+       environment.html
+       science-tech.html
+       current-affairs.html
